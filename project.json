@@ -1,0 +1,6 @@
+{
+  "name": "followup",
+  "title": "Longitudinal cohort review",
+  "group_key": "visit",
+  "value_key": "outcome"
+}

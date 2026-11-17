@@ -1,0 +1,32 @@
+{
+  "records": [
+    {
+      "id": "p1",
+      "cohort": "a",
+      "visit": 1,
+      "outcome": 2,
+      "status": "observed"
+    },
+    {
+      "id": "p1",
+      "cohort": "a",
+      "visit": 2,
+      "outcome": 3,
+      "status": "observed"
+    },
+    {
+      "id": "p2",
+      "cohort": "b",
+      "visit": 1,
+      "outcome": 4,
+      "status": "observed"
+    },
+    {
+      "id": "p2",
+      "cohort": "b",
+      "visit": 2,
+      "outcome": null,
+      "status": "withdrawn"
+    }
+  ]
+}
